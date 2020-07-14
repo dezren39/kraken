@@ -123,7 +123,7 @@ GEM
     equalizer (0.0.11)
     et-orbi (1.0.5)
       tzinfo
-    excon (0.58.0)
+    excon (0.75.0)
     faraday (0.11.0)
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.12.2)
